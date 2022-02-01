@@ -4,10 +4,7 @@
 ### Benvenuto!  
 Nata nel 2016 come contenitore dei miei progetti di ricerca nel campo della robotica opensource, agRobotics è rimasta un'attività di studio e senza fini di lucro. Intermante autofinanziata con un equilibrio ottenuto grazie alla condivisione nelle community e all'alta rotazione dei progetti in essere.
 
-### Progetto in corso
-Sto attualmente lavorando a Perception, un rover UGV che utilizzerò come piattaforma hardware per i prossimi progetti in materia di IA e ...
-
-### Il mio contributo alla comunità GitHub
+### Contributi
 ![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=andreagavazzi&count_private=true&show_icons=true&theme=onedark)
 
 <h3>Where to find me</h3>
