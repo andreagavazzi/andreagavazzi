@@ -4,7 +4,7 @@ This is my GitHub page
 
 
 
-![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=andreagavazzi&count_private=true&show_icons=true)
+![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=andreagavazzi&count_private=true&show_icons=true&theme=onedark)
 
 <!--
 **andreagavazzi/andreagavazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
