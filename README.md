@@ -7,7 +7,7 @@ I am Andrea Gavazzi an IT enthusiast and a maker. I love programming, writing, a
 
 As a programmer, I enjoy bringing in the code that I wrote the obsessive attention to details I'm known for. I can truly see programming as a form of modern art. 
 
-<img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="308" height="218" />
   
 </br>
 
