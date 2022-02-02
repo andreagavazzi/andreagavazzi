@@ -9,6 +9,7 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 
 <img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="408" height="318" />
   
+</br>
 
 **Talking about me:**
 
