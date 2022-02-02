@@ -1,6 +1,8 @@
 
 <img src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/ag_logo.jpg" alt="ag_logo" width="300"/>
-  
+ 
+
+Founded in 2016 as the label for my side projects in Robotic Science, agRobotics saw important cooperations with 
 Nata nel 2016 come contenitore dei miei progetti di ricerca nel campo della robotica opensource, agRobotics è rimasta un'attività di studio e senza fini di lucro. Interamente autofinanziata con un equilibrio ottenuto grazie alla condivisione nelle community e all'alta rotazione dei progetti in essere.
    
   
