@@ -1,4 +1,7 @@
-### Glad to see you here! &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="right" src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/ag_logo.jpg" alt="ag_logo" width="300"/>  
+
+### Glad to see you here! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
 I am Andrea Gavazzi an IT enthusiast and a maker. I love programming, writing, and learning. That's basically the reason why I'm interestend Robotic Science.
@@ -40,8 +43,3 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreagavazzi&show_icons=true&hide_border=true&&count_private=true=true" />
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreagavazzi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-</br>
-
-<img src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/ag_logo.jpg" alt="ag_logo" width="300"/>  
-
