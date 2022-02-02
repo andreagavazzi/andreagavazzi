@@ -1,5 +1,5 @@
 
-<img src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/ag_logo.jpg" alt="ag_logo" width="200"/>
+<img src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/ag_logo.jpg" alt="ag_logo" width="300"/>
   
 Nata nel 2016 come contenitore dei miei progetti di ricerca nel campo della robotica opensource, agRobotics è rimasta un'attività di studio e senza fini di lucro. Interamente autofinanziata con un equilibrio ottenuto grazie alla condivisione nelle community e all'alta rotazione dei progetti in essere.
    
