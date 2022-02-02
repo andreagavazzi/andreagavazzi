@@ -23,7 +23,7 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 </br>
 
 **Current project:**  
-- 💻 [Perception](https://github.com/andreagavazzi/ag_perception), my Unmanned Ground Vehicle, hardware platform for computer vision and AI development.
+- :seedling: [Perception](https://github.com/andreagavazzi/ag_perception), my Unmanned Ground Vehicle, hardware platform for computer vision and AI development.
 
 </br>
 
