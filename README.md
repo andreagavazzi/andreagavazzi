@@ -14,7 +14,7 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 **Talking about me:**
 
 - 👨🏻‍💻 I’m currently working for [CLAAS](https://www.claas.it) as IT Coordinator and ERP Manager;
-- 📝 Download my [Resume](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
+- 📝 You can download [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf) my resume;
 - 🚀 In 2016 I created [agRobotics]() as the brand for my side projects in Robotic Science;
 - 🤝 During the last years agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
 - 📝 I regulary write articles on [medium](https://xgapur-kassym.medium.com);
