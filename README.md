@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/ag_logo.jpg" alt="ag_logo" width="200"/>  
 
-### Welcome! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Happy to see you here! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/andreagavazzi)
 
 I am [Andrea Gavazzi](https://github.com/andreagavazzi) an IT enthusiast and a maker. I love learning, building and programming. That's basically the reason why I'm interested in Robotic Science, that branch of mechanical, electrical and computer engineering which include design, construction and application of robots and computer systems.
