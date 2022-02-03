@@ -17,7 +17,7 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 - 📝 You can download [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf) my resume;
 - 🚀 In 2016 I created [agRobotics]() as the brand for my side projects in Robotic Science;
 - 🤝 During the last years agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
-- 📝 I regulary write articles on [medium](https://xgapur-kassym.medium.com);
+- 📝 I regulary write articles on [medium](https://medium.com/@andrea.gavazzi);
 - 🚣 I like Kayaking when the sunset is imminent and the dusk glitters in the lake.
 
 </br>
