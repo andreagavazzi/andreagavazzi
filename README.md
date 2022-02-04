@@ -27,6 +27,11 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 
 </br>
 
+![image](https://user-images.githubusercontent.com/16292931/152518770-7ebdc3bf-e57d-40e0-9100-430a40575871.png)
+
+
+</br>
+
 **Find me on:**
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andreagavazzi)
