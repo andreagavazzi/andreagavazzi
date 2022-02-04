@@ -23,12 +23,8 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 </br>
 
 **Current project:**  
-- :pushpin: [Perception](https://github.com/andreagavazzi/ag_perception), my Unmanned Ground Vehicle, hardware platform for computer vision and AI development.
-
-</br>
-
-![image](https://user-images.githubusercontent.com/16292931/152518770-7ebdc3bf-e57d-40e0-9100-430a40575871.png)
-
+- :pushpin: [Perception](https://github.com/andreagavazzi/ag_perception), my Unmanned Ground Vehicle, hardware platform for computer vision and AI development.  
+<img src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/banner_Perception_1.png" width="600"/>
 
 </br>
 
