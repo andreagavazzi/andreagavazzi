@@ -17,7 +17,7 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 - 📝 You can download my resume [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
 - 🚀 In 2016 I created [agRobotics]() as the brand for my side projects in Robotic Science;
 - 🤝 During the last years agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
-- 📝 I sometimes write articles on [medium](https://medium.com/@andrea.gavazzi);
+- 📝 I sometimes write articles on [Hashnode](https://hashnode.com/@andreagavazzi);
 - 🚣 I like Kayaking when the sunset is imminent and the dusk glitters in the lake.
 
 </br>
@@ -33,7 +33,7 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andreagavazzi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreagavazzi)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=FAcebook&logoColor=white)](https://www.facebook.com/andrea.gavazzi.3)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@andrea.gavazzi)
+[![Medium Badge](https://img.shields.io/badge/Hashnode-%2312100E.svg?&style=for-square&logo=Hashnode&logoColor=white)](https://hashnode.com/@andreagavazzi)
 
 </br>
 
