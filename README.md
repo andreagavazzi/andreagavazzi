@@ -5,7 +5,7 @@
 
 I am [Andrea Gavazzi](https://github.com/andreagavazzi) an IT enthusiast and a maker. I love learning, building and programming. That's basically the reason why I'm interested in Robotic Science, that branch of mechanical, electrical and computer engineering which include design, construction and application of robots and computer systems.
 
-As a programmer, I enjoy bringing in the code that I wrote the obsessive attention to details I'm known for. I can truly see programming as a form of modern art. 
+As a programmer, I enjoy bringing in the code I wrote, the obsessive attention to details I'm teased for. I can truly see programming as a form of modern art. 
 
 <img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="358" height="268" />
   
@@ -15,8 +15,8 @@ As a programmer, I enjoy bringing in the code that I wrote the obsessive attenti
 
 - 👨🏻‍💻 I’m currently working for [CLAAS](https://www.claas.it) as Head of local IT;
 - 📝 You can download my resume [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
-- 🚀 In 2016 I created [agRobotics]() as the brand for my side projects in Robotic Science;
-- 🤝 During the last years agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
+- 🚀 In 2016 I created [agRobotics]() as a branding for my side projects in Robotic Science;
+- 🤝 During the last years, agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
 - 📝 I sometimes write articles on [Hashnode](https://hashnode.com/@andreagavazzi);
 - 🚣 I like Kayaking when the sunset is imminent and the dusk glitters in the lake.
 
