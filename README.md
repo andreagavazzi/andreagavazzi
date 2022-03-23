@@ -33,7 +33,7 @@ As a programmer, I enjoy bringing in the code I wrote, the obsessive attention t
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andreagavazzi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreagavazzi)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=FAcebook&logoColor=white)](https://www.facebook.com/andrea.gavazzi.3)
-[![Medium Badge](https://img.shields.io/badge/Hashnode-%2312100E.svg?&style=for-square&logo=Hashnode&logoColor=white)](https://hashnode.com/@andreagavazzi)
+
 
 </br>
 
