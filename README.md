@@ -17,8 +17,8 @@ As a programmer, I enjoy bringing in the code I wrote, the obsessive attention t
 - 📝 You can download my resume [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
 - 🚀 In 2016 I created [agRobotics]() as a branding for my side projects in Robotic Science;
 - 🤝 During the last years, agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
-- 📝 I sometimes write articles on [Hashnode](https://hashnode.com/@andreagavazzi);
-- 🚣 I like Kayaking when the sunset is imminent and the dusk glitters in the lake.
+- 📝 I like writing software documentation (often related to Dynamics 365 FO);
+- 🚣 I love Kayaking when the sunset is imminent and the dusk glitters in the lake.
 
 </br>
 
