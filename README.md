@@ -22,12 +22,6 @@ As a programmer, I enjoy bringing in the code I wrote, the obsessive attention t
 
 </br>
 
-**Current project:**  
-- :pushpin: [Perception](https://github.com/andreagavazzi/ag_perception), my Unmanned Ground Vehicle, hardware platform for computer vision and AI development.  
-[<img src="https://github.com/andreagavazzi/ag_perception/blob/main/assets/banner_Perception_1.png" width="600"/>](https://github.com/andreagavazzi/ag_perception)
-
-</br>
-
 **Find me on:**
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andreagavazzi)
