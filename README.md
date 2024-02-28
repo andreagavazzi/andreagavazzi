@@ -3,9 +3,10 @@
 ### Happy to see you here! &nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/andreagavazzi)
 
-I am [Andrea Gavazzi](https://github.com/andreagavazzi) an IT enthusiast and a maker. I love learning, building and programming. That's basically the reason why I'm interested in Robotic Science, that branch of mechanical, electrical and computer engineering which include design, construction and application of robots and computer systems.
+I am [Andrea Gavazzi](https://github.com/andreagavazzi), a tech enthusiast and dedicated maker. My journey into the world of technology began with a fascination for robotics, and over the years, I’ve honed my skills in programming.  
+In 2016, I founded **agRobotics**, a brand that embodies my passion. At agRobotics, we don’t just build robots; we create intelligent companions that navigate complex environments, assist in everyday tasks, and inspire innovation. Our code is poetry, meticulously crafted to breathe life into our mechanical creations.
+Whether it’s tinkering with sensors, optimizing algorithms, or dreaming up the next breakthrough, I thrive on the intersection of creativity and precision. Join me on this exciting quest as we push the boundaries of what’s possible in the ever-evolving landscape of technology 🤖🚀🔧
 
-As a programmer, I enjoy bringing in the code I wrote, the obsessive attention to details I'm teased for. I can truly see programming as a form of modern art. 
 
 <img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="358" height="268" />
   
@@ -13,7 +14,7 @@ As a programmer, I enjoy bringing in the code I wrote, the obsessive attention t
 
 **Talking about me:**
 
-- 👨🏻‍💻 I’m currently working for [CLAAS](https://www.claas.it) as Head of local IT;
+- 👨🏻‍💻 I’m currently working for [CLAAS](https://www.claas.it) as Head of IT;
 - 📝 You can download my resume [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
 - 🚀 In 2016 I created [agRobotics]() as a branding for my side projects in Robotic Science;
 - 🤝 During the last years, agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
