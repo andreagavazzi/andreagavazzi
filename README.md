@@ -8,7 +8,7 @@ In 2016, I founded **agRobotics**, a brand that embodies my passion. At agRoboti
 Whether it’s tinkering with sensors, optimizing algorithms, or dreaming up the next breakthrough, I thrive on the intersection of creativity and precision. Join me on this exciting quest as we push the boundaries of what’s possible in the ever-evolving landscape of technology 🤖🚀🔧
 
 
-<img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/04.gif?raw=true" width="358" height="268" />
+<img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="358" height="268" />
   
 </br>
 
