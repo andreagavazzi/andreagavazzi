@@ -3,9 +3,14 @@
 ### Happy to see you here! &nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/andreagavazzi)
 
-I am [Andrea Gavazzi](https://github.com/andreagavazzi), a tech enthusiast and dedicated maker. My journey into the world of technology began with a fascination for robotics, and over the years, I’ve honed my skills in programming.  
-In 2016, I founded **agRobotics**, a brand that embodies my passion. At agRobotics, we don’t just build robots; we create intelligent companions that navigate complex environments, assist in everyday tasks, and inspire innovation. Our code is poetry, meticulously crafted to breathe life into our mechanical creations.
-Whether it’s tinkering with sensors, optimizing algorithms, or dreaming up the next breakthrough, I thrive on the intersection of creativity and precision. Join me on this exciting quest as we push the boundaries of what’s possible in the ever-evolving landscape of technology 🤖🚀🔧
+I’m Andrea Gavazzi – a passionate technologist, maker, and roboticist.
+My journey into the world of technology started with a deep fascination for robotics, which quickly evolved into a lifelong pursuit of innovation through code, electronics, and intelligent systems.
+
+In 2016, I founded agRobotics, a brand born from the desire to merge creativity and engineering into meaningful, tangible results. At agRobotics, we go beyond building machines — we craft intelligent companions designed to navigate complex environments, assist in everyday tasks, and spark imagination.
+
+To us, code is a form of poetry — each line carefully composed to bring sentience and behavior to our mechanical designs. From fine-tuning sensor arrays to optimizing control algorithms, I thrive at the intersection of precision and invention.
+
+I invite you to join me on this journey — as we explore, create, and redefine what robots can be in an ever-evolving technological world.
 
 
 <img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="358" height="268" />
