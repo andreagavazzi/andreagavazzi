@@ -17,7 +17,7 @@ Welcome to my world of tinkering and discovery — where the boundaries between 
 
 **Talking about me:**
 
-- 👨🏻‍💻 I’m currently working for [CLAAS](https://www.claas.it) as Head of IT;
+- 👨🏻‍💻 I’m currently working for [CLAAS](https://www.claas.it) as Solution Owner for Dynamics 365 FO;
 - 📝 You can download my resume [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
 - 🚀 In 2016 I created [agRobotics]() as a branding for my side projects in Robotic Science;
 - 🤝 During the last years, agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
