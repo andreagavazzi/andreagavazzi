@@ -3,15 +3,13 @@
 ### Happy to see you here! &nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/andreagavazzi)
 
-I’m Andrea Gavazzi – a passionate technologist, maker, and roboticist.
-My journey into the world of technology started with a deep fascination for robotics, which quickly evolved into a lifelong pursuit of innovation through code, electronics, and intelligent systems.
+I’m Andrea Gavazzi — a passionate technologist, maker, and roboticist. My fascination with robotics sparked early and has since evolved into a lifelong pursuit of innovation through code, electronics, and intelligent systems.
 
-In 2016, I founded agRobotics, a brand born from the desire to merge creativity and engineering into meaningful, tangible results. At agRobotics, we go beyond building machines — we craft intelligent companions designed to navigate complex environments, assist in everyday tasks, and spark imagination.
+In 2016, I created agRobotics — a personal brand born from the desire to blend creativity and engineering into meaningful, hands-on projects. It’s where ideas take shape: from humanoid robots to experimental AI companions that navigate, interact, and sometimes even surprise.
 
-To us, code is a form of poetry — each line carefully composed to bring sentience and behavior to our mechanical designs. From fine-tuning sensor arrays to optimizing control algorithms, I thrive at the intersection of precision and invention.
+To me, code is more than logic — it’s a language for building behavior and breathing life into machines. Whether I’m wiring sensors, optimizing algorithms, or testing new designs, I find joy in the precision, curiosity, and play that robotics inspires.
 
-I invite you to join me on this journey — as we explore, create, and redefine what robots can be in an ever-evolving technological world.
-
+Welcome to my world of tinkering and discovery — where the boundaries between hobby and invention blur, and each project is a step toward something unexpected.
 
 <img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="358" height="268" />
   
