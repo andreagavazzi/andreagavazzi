@@ -11,7 +11,7 @@ To me, code is more than logic — it’s a language for building behavior and b
 
 Welcome to my world of tinkering and discovery — where the boundaries between hobby and invention blur, and each project is a step toward something unexpected.
 
-<img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/02.gif?raw=true" width="358" height="268" />
+<img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/05.jpg?raw=true" width="358" height="268" />
   
 </br>
 
