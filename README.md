@@ -21,7 +21,6 @@ Welcome to my world of tinkering and discovery — where the boundaries between 
 - 📝 You can download my resume [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
 - 🚀 In 2016 I created [agRobotics]() as a branding for my side projects in Robotic Science;
 - 🤝 During the last years, agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
-- 📝 I like writing software documentation;
 - 🚣 I love Kayaking when the sunset is imminent and the dusk glitters in the lake.
 
 </br>
