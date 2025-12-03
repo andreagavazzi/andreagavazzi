@@ -27,7 +27,7 @@ Welcome to my world of tinkering and discovery — where the boundaries between 
 
 **Find me on:**
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/andreagavazzi)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreagavazzi)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=FAcebook&logoColor=white)](https://www.facebook.com/andrea.gavazzi.3)
 
