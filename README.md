@@ -25,18 +25,3 @@ Welcome to my world of tinkering and discovery — where the boundaries between 
 
 </br>
 
-**Find me on:**
-
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreagavazzi)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=FAcebook&logoColor=white)](https://www.facebook.com/andrea.gavazzi.3)
-
-
-</br>
-
-**GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreagavazzi&show_icons=true&hide_border=true&&count_private=true=true" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreagavazzi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
