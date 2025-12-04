@@ -3,26 +3,46 @@
 ### Happy to see you here! &nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/andreagavazzi)
 
-I’m Andrea Gavazzi — a passionate technologist, maker, and roboticist. My fascination with robotics sparked early and has since evolved into a lifelong pursuit of innovation through code, electronics, and intelligent systems.
+I’m **Andrea Gavazzi** — technologist, maker, and roboticist.  
+My fascination with robots turned into a long‑term habit of building things: code, electronics and intelligent systems that move, sense and react.
 
-In 2016, I created agRobotics — a personal brand born from the desire to blend creativity and engineering into meaningful, hands-on projects. It’s where ideas take shape: from humanoid robots to experimental AI companions that navigate, interact, and sometimes even surprise.
+In 2016 I created **agRobotics**, a personal brand for my side projects in robotics and AI.  
+It’s where I experiment with humanoid platforms (like my Rakuda | Echo project), perception pipelines, and all the glue code that makes robots a bit more useful — and occasionally a bit weird.
 
-To me, code is more than logic — it’s a language for building behavior and breathing life into machines. Whether I’m wiring sensors, optimizing algorithms, or testing new designs, I find joy in the precision, curiosity, and play that robotics inspires.
 
-Welcome to my world of tinkering and discovery — where the boundaries between hobby and invention blur, and each project is a step toward something unexpected.
+### What I do
+
+- 💼 Currently working at [CLAAS](https://www.claas.it) as **Solution Owner for Microsoft Dynamics 365 Finance & Operations**  
+- 🤖 Designing and building humanoid‑style research robots under the **agRobotics** umbrella  
+- 🧠 Playing with **ROS 2, GPU acceleration, depth cameras, LLMs and local AI stacks**  
+- 🛠️ Enjoying the mix of **mechanics, embedded systems, and high‑level software**
+
+
+
+### A bit more about me
+
+- In 2016 I created [agRobotics] as a branding for my side projects in robotic science  
+- Over the years, agRobotics has collaborated with **The Corpora**, **Aldebaran Robotics** and **Nyrio**  
+- I genuinely like writing **clear technical documentation** (yes, really)  
+- I love **kayaking at sunset**, when the lake turns into a mirror for the last light of the day
+
 
 <img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/05.jpg?raw=true" width="358" height="268" />
   
 </br>
 
-**Talking about me:**
+### GitHub & projects
 
-- 👨🏻‍💻 I’m currently working for [CLAAS](https://www.claas.it) as Solution Owner for Dynamics 365 FO;
-- 📝 You can download my resume [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
-- 🤖 In 2016 I created **agRobotics** as a branding for my side projects in Robotic Science;
-- 🤝 During the last years, agRobotics have had good collaborations with The Corpora, Aldebaran Robotics and Nyrio;
-- 🚣 I love Kayaking when the sunset is imminent and the dusk glitters in the lake.
+Here on GitHub you’ll mostly find:
+
+- ROS 2 packages and experiments for my **Rakuda | Echo** humanoid platform  
+- Small utilities and prototypes for **robot perception, control, and simulation**  
+- Occasional tooling around **Dynamics 365 / data / automation**
+
+</br> 
 
 
-</br>
+Thanks for stopping by — and if you’re into robotics, ROS 2 or digital transformation, feel free to reach out and say hi 👋
+
+
 
