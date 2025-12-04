@@ -9,15 +9,13 @@ My fascination with robots turned into a long‑term habit of building things: c
 In 2016 I created **agRobotics**, a personal brand for my side projects in robotics and AI.  
 It’s where I experiment with humanoid platforms (like my Rakuda | Echo project), perception pipelines, and all the glue code that makes robots a bit more useful — and occasionally a bit weird.
 
-
+ 
 ### What I do
 
 - 💼 Currently working at [CLAAS](https://www.claas.it) as **Solution Owner for Microsoft Dynamics 365 Finance & Operations**  
 - 🤖 Designing and building humanoid‑style research robots under the **agRobotics** umbrella  
 - 🧠 Playing with **ROS 2, GPU acceleration, depth cameras, LLMs and local AI stacks**  
 - 🛠️ Enjoying the mix of **mechanics, embedded systems, and high‑level software**
-
-
 
 ### A bit more about me
 
@@ -26,10 +24,8 @@ It’s where I experiment with humanoid platforms (like my Rakuda | Echo project
 - I genuinely like writing **clear technical documentation** (yes, really)  
 - I love **kayaking at sunset**, when the lake turns into a mirror for the last light of the day
 
+<img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/05.jpg?raw=true" width="300" />  
 
-<img align="right" alt="GIF" src="https://github.com/andreagavazzi/andreagavazzi/blob/main/05.jpg?raw=true" width="358" height="268" />
-  
-</br>
 
 ### GitHub & projects
 
@@ -40,9 +36,9 @@ Here on GitHub you’ll mostly find:
 - Occasional tooling around **Dynamics 365 / data / automation**
 
 </br> 
+</br> 
 
-
-Thanks for stopping by — and if you’re into robotics, ROS 2 or digital transformation, feel free to reach out and say hi 👋
+Thanks for stopping by — and if you’re into robotics, ROS 2 or digital innovation, feel free to reach out and say hi 👋
 
 
 
